@@ -1,4 +1,4 @@
-# Lumaa — Pashmina
+# Brand Lumaa
 
 Landing page sederhana untuk memperkenalkan brand Lumaa dan koleksi pashmina. Halaman menampilkan hero, pengenalan brand, daftar produk, harga, serta tautan kontak dan media sosial.
 
